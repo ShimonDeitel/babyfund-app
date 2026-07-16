@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: BabyfundTests
-      - path: Babyfund.storekit
     dependencies:
       - target: Babyfund
     settings:
